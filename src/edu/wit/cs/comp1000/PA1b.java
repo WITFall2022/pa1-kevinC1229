@@ -33,6 +33,6 @@ public class PA1b {
 		inches = Totalinches%36%12/1;
 		
 		System.out.printf("inches: %d%n",inches);
-	}
+	} 
 
 }

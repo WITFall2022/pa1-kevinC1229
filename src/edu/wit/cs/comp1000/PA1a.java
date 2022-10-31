@@ -25,7 +25,7 @@ public class PA1a {
 		System.out.printf("Total number of inches: ");
 		int ans;
 		ans = feet*12+yards*36+inches;
-		System.out.print(ans);
+		System.out.print(ans); 
 	}
 
 }
